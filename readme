@@ -1,0 +1,16 @@
+Auto Download Chromedriver for any Chrome
+依 Chrome 安裝版本自動下載 Chromedriver
+
+系統環境
+OS: Win10 x64
+Python Versions: 3.8.0
+
+所需安裝 Package
+1. requests
+2. xmltodict
+3. win32com
+
+使用方式
+直接執行
+1. 將 AutoGetChromedriver.py 檔放置爬蟲資料夾下
+2. 確認 Package 安裝完畢後直接執行 python AutoGetChromedriver.py 即可
